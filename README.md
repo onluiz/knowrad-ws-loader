@@ -1,4 +1,4 @@
-# knowrad-ws-loader
+# knowrad-wsloader
 Knowrad websocket loader is an structure to load DICOM files via websocket.
 
 1 - Client ask for DICOM to an web java app in server;
